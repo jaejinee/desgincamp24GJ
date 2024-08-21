@@ -7,8 +7,8 @@ document.addEventListener("DOMContentLoaded", function () {
   // Define navigation items
   const navItems = [
     { text: "p1. 뽑기", link: "p1-a.html" },
-    { text: "p2. 핑퐁", link: "p2-a.html" },
-    // { text: "p3. 핑퐁", link: "p3-a.html" },
+    { text: "p2. 핑퐁", link: "" },
+    // { text: "p2. 핑퐁", link: "p2-a.html" },
   ];
   // const subnavItems1 = [{ text: "a. 소개", link: "p1-a.html" }];
   const subnavItems1 = [
